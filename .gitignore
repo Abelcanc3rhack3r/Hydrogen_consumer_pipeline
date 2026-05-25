@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow directories so Git can search them for Python files
+!*/
+
+# Whitelist Python files and this gitignore
+!*.py
+!.gitignore
