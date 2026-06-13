@@ -1,0 +1,14 @@
+      ======================================================================================
+      Resource Usage on 2024-12-04 13:31:42.176796:
+      JobId: 632659.kylin  				 Project: _pbs_project_default 
+      Submission Host: compute01 
+      Exit Status: 0
+      NCPUs Requested: 15 				 NCPUs Used: 15
+      Memory Requested: 41943040kb 				 Memory Used: 0kb 
+      Vmem Used: 0kb
+      CPU Time Used: 00:00:00 
+      Walltime requested: 24:00:00 			 Walltime Used: 00:00:01
+      Submit Time:  Wed Dec  4 13:31:41 2024 		 Start Time: Wed Dec  4 13:31:41 2024 
+      End Time: Wed Dec  4 13:31:42 2024 
+      Execution Nodes Used: (compute07:ncpus=15:mem=41943040kb)
+      ======================================================================================

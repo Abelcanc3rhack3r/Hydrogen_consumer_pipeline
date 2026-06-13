@@ -1,0 +1,15 @@
+  File "../make_manifest.py", line 39
+    f.write(f'{sample_id},{forward_path},{reverse_path}\n')
+                                                         ^
+SyntaxError: invalid syntax
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 17: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 22: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 27: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 36: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 47: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 52: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 55: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 59: biom: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 62: qiime: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 65: conda: command not found
+/var/spool/pbs/mom_priv/jobs/632659.kylin.SC: line 68: picrust2_pipeline.py: command not found
